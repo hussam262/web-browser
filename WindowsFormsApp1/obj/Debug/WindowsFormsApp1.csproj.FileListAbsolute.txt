@@ -1,0 +1,13 @@
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\bin\Debug\HR_WebBrowser.exe.config
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\bin\Debug\HR_WebBrowser.exe
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\bin\Debug\HR_WebBrowser.pdb
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\HR_WebBrowser.Properties.Resources.resources
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\HR_WebBrowser.exe
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\HR_WebBrowser.pdb
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Favourites.resources
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.History.resources
+C:\Users\Hussa\source\repos\ConsoleApp7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BulkDownload.resources

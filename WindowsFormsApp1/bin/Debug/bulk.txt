@@ -1,0 +1,6 @@
+www.aus.edu
+www.hw.ac.uk
+www.yahoo.com
+status.savanttools.com/?code=403%20Forbidden
+status.savanttools.com/?code=404%20Not%20Found
+status.savanttools.com/?code=400%20Bad%20Request
